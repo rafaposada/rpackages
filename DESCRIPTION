@@ -1,0 +1,7 @@
+Package: RPV
+Type: Package
+Title: Paquetes desarrollados por Rafael Posada
+Version: 0.0.1.0
+RoxygenNote: 7.2.1
+Roxygen: list(markdown = TRUE)
+Encoding: UTF-8
